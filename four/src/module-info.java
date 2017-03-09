@@ -1,0 +1,3 @@
+module four {
+    exports d;
+}
