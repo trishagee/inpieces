@@ -1,5 +1,4 @@
-/* Person.java */
-package d;
+package com.mechanitis.demo.four;
 
 public class Person {
     private String name;

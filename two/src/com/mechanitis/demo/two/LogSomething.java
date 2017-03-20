@@ -1,4 +1,4 @@
-package b;
+package com.mechanitis.demo.two;
 
 import java.util.logging.Logger;
 
