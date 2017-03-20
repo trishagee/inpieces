@@ -1,3 +1,0 @@
-module four {
-    exports d;
-}
