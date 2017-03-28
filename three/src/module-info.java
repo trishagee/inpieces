@@ -1,2 +1,3 @@
 module three {
+    requires four;
 }
